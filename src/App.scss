@@ -1,0 +1,11 @@
+@import "./variables";
+@import '@picocss/pico';
+
+body {
+  font-family: "Nunito", sans-serif
+}
+
+h1, h2,h3,h4,h5,h6,b {
+  font-family: "Audiowide", sans-serif;
+  color: $primary-500;
+}
